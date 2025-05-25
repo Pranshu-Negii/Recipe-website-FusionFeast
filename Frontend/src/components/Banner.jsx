@@ -12,7 +12,7 @@ export default function Banner() {
         playsInline
         className="absolute inset-0 w-full h-full object-cover"
       >
-        <source src={`${process.env.PUBLIC_URL}/BannerVideoo.mp4`} type="video/mp4" />
+        <source src="/Recipe-website-FusionFeast/BannerVideoo.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
 
