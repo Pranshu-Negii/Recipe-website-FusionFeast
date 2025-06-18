@@ -27,6 +27,12 @@ Browse, explore, and add recipes with an elegant UI and smooth user experience.
 
 <br>
 
+## 🌐 Live Website
+
+[Click here to visit the website](https://pranshu-negii.github.io/Recipe-website-FusionFeast/)
+
+<br>
+
 # SCREENSHOT 
 
 # Homepage
