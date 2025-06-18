@@ -30,14 +30,16 @@ Browse, explore, and add recipes with an elegant UI and smooth user experience.
 # SCREENSHOT 
 
 # Homepage
-![Screenshot 2025-04-28 195238](https://github.com/user-attachments/assets/43b7c261-163e-453a-b3e3-0f9771788949)
-![Screenshot 2025-04-28 195257](https://github.com/user-attachments/assets/e4bd9692-6353-41ab-a0f3-3d9223cf67f5)
+![Homepage](https://github.com/user-attachments/assets/26caf724-9a4d-45e2-b6bc-ea69f3def03d)
+![Homepage2](https://github.com/user-attachments/assets/21a92b09-3759-40cc-a1b0-43bb2f2cf57c)
+![Homepage3](https://github.com/user-attachments/assets/80c85b75-775e-4660-9a4e-a2cf72c12e9e)
+
 
 <br>
 
 # Admin panel
 
-![Screenshot 2025-04-28 195313](https://github.com/user-attachments/assets/344952f0-d8a7-4688-8bd8-e9a33c16909c)
+![Admin](https://github.com/user-attachments/assets/8ec5c62c-137c-4daf-b4a0-3c73a2f3ea84)
 
 
 ---
